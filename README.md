@@ -10,14 +10,13 @@ A simple **Employee Registration System** built using **Spring, Hibernate, JSP, 
 ✅ Data persistence using Hibernate ORM  
 
 ## 🛠️ Technologies Used
-- **Java 11 / Java 7**
+- **Java 11**
 - **Spring Framework**
 - **Hibernate ORM**
 - **JDBC**
 - **MySQL Database**
 - **JSP (Java Server Pages)**
 - **Apache Tomcat**
-- **Eclipse / IntelliJ IDEA**
+- **Eclipse**
 
-## 📌 Project Structure
 
